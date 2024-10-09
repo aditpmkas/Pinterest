@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515780557282",
+    "project_id": "bismillah-18434",
+    "storage_bucket": "bismillah-18434.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515780557282:android:96d42272d9dac70b5f61bb",
+        "android_client_info": {
+          "package_name": "com.example.pinterest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzlb1XDzVm3350qlK7cycs-Cf2gJz9AK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
