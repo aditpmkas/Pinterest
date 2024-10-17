@@ -1,4 +1,4 @@
-package com.example.inbox1;
+package com.example.pinterest;
 
 public class InboxMessage {
     private String sender;

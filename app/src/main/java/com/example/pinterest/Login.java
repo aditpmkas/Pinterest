@@ -88,7 +88,7 @@ public class Login extends AppCompatActivity {
         });
     }
     private void reload(){
-        startActivity(new Intent(getApplicationContext(), Home.class));
+        startActivity(new Intent(getApplicationContext(), InboxActivity.class));
     }
 
     @Override

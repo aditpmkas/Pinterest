@@ -1,4 +1,4 @@
-package com.example.inbox1;
+package com.example.pinterest;
 
 import android.content.Context;
 import android.content.Intent;
